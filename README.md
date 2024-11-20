@@ -1,4 +1,4 @@
-# Virtual Piano Simulator
+# Simulador Piano Virtual 
 
 Este projeto é um teclado virtual de piano, permitindo ao usuário tocar sons de notas de piano diretamente no navegador. Com um layout intuitivo, o teclado simula teclas brancas e pretas e permite ajustar o volume, além de uma opção para exibir ou ocultar as legendas das teclas.
 
